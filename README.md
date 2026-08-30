@@ -64,11 +64,9 @@ react-basics-notes-todo/
 
 ## 🌐 Live Demo
 
-🚧 **Live Demo:** Coming soon.
+👉 [View React Basics Live](https://chalitha-wickramasingha.github.io/react-basics-notes-todo/)
 
-The application will be deployed after the project has been finalized and tested.
-
----
+> Hosted using GitHub Pages.
 
 ## 📸 Screenshots
 
