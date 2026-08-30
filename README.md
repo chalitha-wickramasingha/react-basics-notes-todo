@@ -1,27 +1,15 @@
 # ⚛️ React Basics – Notes & To-Do App
 
 <table>
-
   <tr>
-
     <td width="40%">
-
       <strong>React Basics</strong><br />
-
       Dev Weekends Exercise
-
     </td>
-
     <td width="60%">
-
-      <strong>React Basics – Notes & To-Do App</strong> is a beginner-friendly React application built as part of a <strong>Dev Weekends Fellowship 2026</strong> exercise.
-
-      The project combines React learning notes with a functional To-Do application to demonstrate fundamental concepts including <strong>JSX</strong>, <strong>functional components</strong>, <strong>props</strong>, <strong>useState</strong>, <strong>useEffect</strong>, <strong>conditional rendering</strong>, and <strong>list rendering with keys</strong>.
-
+      <strong>React Basics – Notes & To-Do App</strong> is a beginner-friendly React application built as part of a <strong>Dev Weekends Fellowship 2026</strong> exercise. The project combines React learning notes with a functional To-Do application to demonstrate fundamental concepts including <strong>JSX</strong>, <strong>functional components</strong>, <strong>props</strong>, <strong>useState</strong>, <strong>useEffect</strong>, <strong>conditional rendering</strong>, and <strong>list rendering with keys</strong>.
     </td>
-
   </tr>
-
 </table>
 
 ---
